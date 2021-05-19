@@ -1,6 +1,7 @@
 **/flagged
 **/venv
 **/.idea
+**/__pycache__
 /testing.py
 /testing2.py
 /test_sk.py
