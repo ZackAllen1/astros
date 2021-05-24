@@ -1,4 +1,4 @@
-# Redesigning the Houston Astro's Cheating Scandal
+# Redesigning the Houston Astros Cheating Scandal
 
 
 ## Intro
