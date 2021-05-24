@@ -1,3 +1,4 @@
+*.gitignore
 **/flagged
 **/venv
 **/.idea
