@@ -8,8 +8,6 @@ For example, the catcher may show the pitcher the numbers 2-4-3-1-2, which the p
 these number sequences in real time and relayed what pitch was coming to their hitters by banging on trash-cans in the dugout, giving them a significant advantage as they
 were 93% accurate in determining off-speed pitches.
 
-Linked [here](https://www.youtube.com/watch?v=M2XNW1qHN9w) (slight language warning) is an excellent and brief breakdown of these events taking place.
-
 ## Project Goals
 The primary objective of this project is to test the limits of Computer Vision, Neural Networks, and Data Analysis in order to automate and possibly improve the decoding process
 done by the Astros.
