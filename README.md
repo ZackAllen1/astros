@@ -41,7 +41,7 @@ The following 3 models will be implemented using the flowchart below in order to
 ✅ Generate data-sets/labels for RNN that follow encoding patterns and MLB trends
 
 
- ## 🚧 WIP
+ ## 🚧 WIP (Paused due to 2021 Internships, Expected Completion Fall 2022)
 🚧 OpenCV and Mediapipe Model to identify catcher fingers
 
 🚧 Web-scraper to collect large amounts of pitching data from various pitchers
@@ -49,8 +49,6 @@ The following 3 models will be implemented using the flowchart below in order to
 🚧 Model to interpret web-scraped data
 
 🚧 All-in-one GUI to display inputs/outputs and predicted pitch types
-
-🚧 Score function to weigh RNN Prediction and Data Analysis Prediction
 
 
 ## Relevant Resources
